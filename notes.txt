@@ -1,0 +1,8 @@
+Hinges at ends of bed must be 30mm closer to the end than the join. This will mean that it closes tight.
+
+Wood selected should be lard and last a long time. It should also look good.
+
+Matress Dimensions (roughly): 1550x2050x200
+
+Bed needs 30cm between the bottom and the floor to allow for storage.
+    Should also be smaller when empty
